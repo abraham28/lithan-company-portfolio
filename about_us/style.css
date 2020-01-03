@@ -1,0 +1,20 @@
+.aboutUsTitle{
+    text-align: center;
+    font-size: 70px;
+    padding: 50px 0;
+    width: 100%;
+    background: var(--secondaryColor);
+    color: var(--textColor);
+    font-weight: bold;
+}
+.aboutUsBlk01{
+    width: 80%;
+    margin: 15px auto;
+    line-height: 2;
+}
+@media (min-width:425px){
+    footer{
+        position: fixed;
+        bottom: 0;
+    }
+}
